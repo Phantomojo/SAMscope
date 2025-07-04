@@ -1,0 +1,30 @@
+[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 607 total,   1 running, 606 sleeping,   0 stopped,   0 zombie
+
+  Mem:  3771796K total,  3652944K used,   118852K free,      932K buffers
+
+ Swap:  4194300K total,  2056904K used,  2137396K free,   783564K cached
+
+800%cpu  63%user   3%nice  50%sys 678%idle   0%iow   8%irq   0%sirq   0%host
+
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+
+21962 u0_a312      10 -10  12G 220M 129M S 47.5   5.9   2:59.70 com.whatsapp
+
+[1m 5733 shell        20   0 2.1G 3.4M 2.3M R 30.0   0.0   0:00.23 top -m 10 -n 1
+[m
+ 1203 system       18  -2  17G 235M  84M S  5.0   6.3 641:35.42 system_server
+
+ 1010 audioserver  20   0 2.8G 8.4M 6.7M S  5.0   0.2 157:08.46 audioserver
+
+  950 audioserver  20   0  57M 1.4M 1.4M S  5.0   0.0 128:30.35 android.hardwar+
+
+ 5687 root         20   0    0    0    0 I  2.5   0.0   0:00.31 [kworker/u16:1-+
+
+ 3313 u0_a467      20   0  28G  78M  52M S  2.5   2.1  25:05.92 com.spotify.mus+
+
+ 8986 u0_a330      20   0  10G  60M  25M S  2.5   1.6  60:11.71 com.sec.android+
+
+ 1020 system       -3   0 3.5G  20M  13M S  2.5   0.5 234:32.50 surfaceflinger
+
+  957 system       20   0 2.2G 2.0M 1.9M S  2.5   0.0  15:12.07 android.hardwar+
+[?25h[0m[999H[K[?25h[?25h[0m[999H[K

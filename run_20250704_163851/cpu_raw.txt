@@ -1,0 +1,30 @@
+[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 616 total,   2 running, 614 sleeping,   0 stopped,   0 zombie
+
+  Mem:  3771796K total,  3684572K used,    87224K free,     1092K buffers
+
+ Swap:  4194300K total,  2228528K used,  1965772K free,  1078828K cached
+
+800%cpu 179%user  43%nice 148%sys 417%idle   2%iow  10%irq   2%sirq   0%host
+
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+
+[1m16587 u0_a257      20   0 8.3G  97M  49M R  183   2.6   0:01.82 com.safaricom.m+
+[m
+ 1203 system       18  -2  17G 231M  76M S 64.2   6.2 636:08.79 system_server
+
+[1m16644 shell        20   0 2.1G 3.4M 2.3M R 35.7   0.0   0:00.20 top -m 10 -n 1
+[m
+16631 u0_a182      20   0 7.8G  34M  20M S 11.9   0.9   0:00.16 com.google.proc+
+
+17426 u0_i9107     20   0 8.7G  30M  20M S  7.1   0.8  12:37.55 com.google.andr+
+
+ 9156 u0_a182      20   0 9.4G 110M  56M S  7.1   2.9   4:18.40 com.google.andr+
+
+16568 u0_a84       20   0 7.8G  36M  21M S  4.7   0.9   0:00.24 com.android.pro+
+
+16549 u0_a175      20   0 7.9G  34M  20M S  4.7   0.9   0:00.18 com.google.andr+
+
+ 2655 u0_a448      10 -10  31G 173M 143M S  4.7   4.7   1:39.41 com.life360.and+
+
+ 2352 u0_a50       20   0  12G 105M  77M S  4.7   2.8 113:05.47 com.android.sys+
+[?25h[0m[999H[K[?25h[?25h[0m[999H[K

@@ -1,0 +1,30 @@
+[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 605 total,   1 running, 604 sleeping,   0 stopped,   0 zombie
+
+  Mem:  3771796K total,  3654928K used,   116868K free,     1064K buffers
+
+ Swap:  4194300K total,  2156072K used,  2038228K free,   953608K cached
+
+800%cpu 110%user  38%nice 115%sys 515%idle   4%iow  15%irq   4%sirq   0%host
+
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+
+ 8637 u0_a230      20   0  10G 164M  73M S  125   4.4   0:06.25 com.facebook.ka+
+
+[1m 8762 shell        20   0 2.1G 3.4M 2.3M R 33.3   0.0   0:00.30 top -m 10 -n 1
+[m
+ 1010 audioserver  20   0 2.8G  12M 7.3M S 20.8   0.3 150:38.15 audioserver
+
+ 2823 bluetooth    20   0 8.7G  44M  26M S 18.7   1.1  92:09.49 com.android.blu+
+
+  950 audioserver  20   0  57M 1.5M 1.1M S 16.6   0.0 123:20.36 android.hardwar+
+
+27327 u0_a361       1 -19  33G 531M 226M S 12.5  14.4  10:29.97 com.zhiliaoapp.+
+
+17426 u0_i9107     20   0 8.7G  40M  21M S 12.5   1.0   8:23.29 com.google.andr+
+
+ 1203 system       18  -2  17G 225M  69M S 10.4   6.1 620:53.24 system_server
+
+ 8986 u0_a330      20   0  10G  32M  22M S  4.1   0.8  59:14.14 com.sec.android+
+
+ 1020 system       -3   0 3.5G  20M  13M S  4.1   0.5 226:51.02 surfaceflinger
+[?25h[0m[999H[K[?25h[?25h[0m[999H[K

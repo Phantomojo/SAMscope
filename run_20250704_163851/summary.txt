@@ -1,0 +1,44 @@
+=== ANDROID DIAGNOSTIC REPORT ===
+
+Top 5 User CPU Processes:
+Top 5 System CPU Processes:
+
+Top 5 User RAM Apps:
+  com.whatsapp (PID 15997): 154.1 MB RAM 
+  com.safaricom.mpesa.lifestyle (PID 16587): 138.2 MB RAM 
+  com.truecaller (PID 15405): 135.6 MB RAM 
+  com.google.android.gms.persistent (PID 9156): 114.2 MB RAM 
+  com.life360.android.safetymapd (PID 2655): 107.0 MB RAM 
+Top 5 System RAM Apps:
+  system (PID 1203): 241.9 MB RAM 
+  android.process.acore (PID 13963): 41.4 MB RAM 
+  android:drmService (PID 15616): 28.4 MB RAM 
+  android.process.media (PID 5157): 25.3 MB RAM 
+  zygote64 (PID 941): 21.1 MB RAM 
+
+Thermal Sensors:
+  SUBBAT: 0.0°C
+  AP: 44.8°C
+  PA: 42.9°C
+  BAT: 31.9°C
+  USB: 0.0°C
+  SKIN: 39.5°C
+
+Running Services (first 10):
+  com.google.android.gms/.nearby.presence.service.LifeCycleService
+  com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService
+  com.google.android.gms/.chimera.PersistentInternalBoundBrokerService
+  com.google.android.gms/.ads.identifier.service.AdvertisingIdService
+  com.samsung.android.honeyboard/.service.HoneyBoardService
+  com.samsung.android.rubin.app/com.samsung.android.rubin.controller.KeepAliveService
+  com.google.android.apps.messaging/com.google.android.ims.service.JibeService
+  com.google.android.networkstack.tethering/com.android.networkstack.tethering.TetheringService
+  com.samsung.android.gearoplugin/com.samsung.android.hostmanager.service.HostManager
+  com.android.systemui/com.android.wm.shell.pip.PipMenuControlService
+
+Heavy CPU Processes (>=50.0%):
+Heavy RAM Apps (>=300MB):
+
+=== DIAGNOSTIC WARNINGS & SUGGESTIONS ===
+
+=== END OF REPORT ===

@@ -1,0 +1,30 @@
+[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 623 total,   2 running, 621 sleeping,   0 stopped,   0 zombie
+
+  Mem:  3771796K total,  3604476K used,   167320K free,     1128K buffers
+
+ Swap:  4194300K total,  2176500K used,  2017800K free,   927692K cached
+
+800%cpu  18%user   3%nice  38%sys 733%idle   0%iow   5%irq   3%sirq   0%host
+
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+
+[1m22164 shell        20   0 2.0G 3.4M 2.3M R 28.2   0.0   0:00.25 top -m 10 -n 1
+[m
+17426 u0_i9107     20   0 8.7G  33M  20M S 12.8   0.9  12:58.37 com.google.andr+
+
+ 1203 system       18  -2  17G 240M  82M S  5.1   6.5 637:34.59 system_server
+
+ 8986 u0_a330      20   0  10G  27M  21M S  2.5   0.7  59:58.82 com.sec.android+
+
+ 2823 bluetooth    20   0 8.7G  30M  21M S  2.5   0.8  99:04.36 com.android.blu+
+
+ 2352 u0_a50       20   0  12G 121M  76M S  2.5   3.2 113:14.65 com.android.sys+
+
+ 1010 audioserver  20   0 2.8G 4.5M 4.0M S  2.5   0.1 156:28.35 audioserver
+
+  367 root         RT   0    0    0    0 S  2.5   0.0  10:40.70 [ego:0]
+
+   12 root         -2   0    0    0    0 I  2.5   0.0  13:46.58 [rcu_preempt]
+
+22088 root          0 -20    0    0    0 I  0.0   0.0   0:00.00 [kworker/4:9H]
+[?25h[0m[999H[K[?25h[?25h[0m[999H[K

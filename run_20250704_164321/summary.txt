@@ -1,0 +1,44 @@
+=== ANDROID DIAGNOSTIC REPORT ===
+
+Top 5 User CPU Processes:
+Top 5 System CPU Processes:
+
+Top 5 User RAM Apps:
+  com.life360.android.safetymapd (PID 25190): 265.8 MB RAM 
+  com.instagram.android (PID 23606): 177.4 MB RAM 
+  com.android.vending (PID 25473): 118.9 MB RAM 
+  com.facebook.katana (PID 23165): 104.7 MB RAM 
+  com.whatsapp (PID 21962): 99.5 MB RAM 
+Top 5 System RAM Apps:
+  system (PID 1203): 247.2 MB RAM 
+  android.process.acore (PID 13963): 36.3 MB RAM 
+  android:drmService (PID 23267): 30.7 MB RAM 
+  android.process.media (PID 5157): 25.3 MB RAM 
+  zygote64 (PID 941): 21.1 MB RAM 
+
+Thermal Sensors:
+  SUBBAT: 0.0°C
+  AP: 42.7°C
+  PA: 41.4°C
+  BAT: 32.1°C
+  USB: 0.0°C
+  SKIN: 38.5°C
+
+Running Services (first 10):
+  com.google.android.gms/.nearby.presence.service.LifeCycleService
+  com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService
+  com.google.android.gms/.chimera.PersistentInternalBoundBrokerService
+  com.google.android.googlequicksearchbox/androidx.room.MultiInstanceInvalidationService
+  com.osp.app.signin/androidx.room.MultiInstanceInvalidationService
+  com.google.android.gms/.ads.identifier.service.AdvertisingIdService
+  com.samsung.android.honeyboard/.service.HoneyBoardService
+  com.samsung.android.rubin.app/com.samsung.android.rubin.controller.KeepAliveService
+  com.google.android.apps.messaging/com.google.android.ims.service.JibeService
+  com.google.android.networkstack.tethering/com.android.networkstack.tethering.TetheringService
+
+Heavy CPU Processes (>=50.0%):
+Heavy RAM Apps (>=300MB):
+
+=== DIAGNOSTIC WARNINGS & SUGGESTIONS ===
+
+=== END OF REPORT ===

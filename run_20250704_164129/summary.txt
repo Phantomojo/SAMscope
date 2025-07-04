@@ -1,0 +1,44 @@
+=== ANDROID DIAGNOSTIC REPORT ===
+
+Top 5 User CPU Processes:
+Top 5 System CPU Processes:
+
+Top 5 User RAM Apps:
+  com.instagram.android (PID 21357): 246.0 MB RAM 
+  com.whatsapp (PID 21962): 147.1 MB RAM 
+  com.android.systemui (PID 2352): 132.2 MB RAM 
+  com.google.android.googlequicksearchbox:googleapp (PID 20277): 122.5 MB RAM 
+  com.google.android.gms.persistent (PID 9156): 120.8 MB RAM 
+Top 5 System RAM Apps:
+  system (PID 1203): 253.0 MB RAM 
+  android.process.acore (PID 13963): 43.7 MB RAM 
+  android:drmService (PID 21018): 31.3 MB RAM 
+  android.process.media (PID 5157): 25.3 MB RAM 
+  zygote64 (PID 941): 21.0 MB RAM 
+
+Thermal Sensors:
+  SUBBAT: 0.0°C
+  AP: 39.6°C
+  PA: 39.2°C
+  BAT: 31.8°C
+  USB: 0.0°C
+  SKIN: 38.2°C
+
+Running Services (first 10):
+  com.google.android.gms/.nearby.presence.service.LifeCycleService
+  com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService
+  com.google.android.gms/.chimera.PersistentInternalBoundBrokerService
+  com.samsung.android.honeyboard/.service.HoneyBoardService
+  com.samsung.android.rubin.app/com.samsung.android.rubin.controller.KeepAliveService
+  com.google.android.apps.messaging/com.google.android.ims.service.JibeService
+  com.google.android.networkstack.tethering/com.android.networkstack.tethering.TetheringService
+  com.samsung.android.gearoplugin/com.samsung.android.hostmanager.service.HostManager
+  com.android.systemui/com.android.wm.shell.pip.PipMenuControlService
+  com.spotify.music/com.google.firebase.sessions.SessionLifecycleService
+
+Heavy CPU Processes (>=50.0%):
+Heavy RAM Apps (>=300MB):
+
+=== DIAGNOSTIC WARNINGS & SUGGESTIONS ===
+
+=== END OF REPORT ===

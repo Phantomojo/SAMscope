@@ -1,0 +1,46 @@
+=== ANDROID DIAGNOSTIC REPORT ===
+
+Top 5 User CPU Processes:
+Top 5 System CPU Processes:
+
+Top 5 User RAM Apps:
+  com.zhiliaoapp.musically (PID 27327): 493.9 MB RAM *
+  com.facebook.katana (PID 8637): 191.7 MB RAM 
+  com.google.android.googlequicksearchbox:search (PID 7400): 114.0 MB RAM 
+  com.google.android.gms.persistent (PID 9156): 102.7 MB RAM 
+  com.android.systemui (PID 2352): 85.4 MB RAM 
+Top 5 System RAM Apps:
+  system (PID 1203): 247.7 MB RAM 
+  android.process.acore (PID 13963): 40.6 MB RAM 
+  android:drmService (PID 5825): 29.9 MB RAM 
+  android.process.media (PID 5157): 26.2 MB RAM 
+  zygote64 (PID 941): 21.1 MB RAM 
+
+Thermal Sensors:
+  SUBBAT: 0.0°C
+  AP: 39.1°C
+  PA: 38.5°C
+  BAT: 31.4°C
+  USB: 0.0°C
+  SKIN: 36.9°C
+
+Running Services (first 10):
+  com.google.android.gms/.nearby.presence.service.LifeCycleService
+  com.zhiliaoapp.musically/com.ss.android.newmedia.redbadge.RedBadgePushProcessService
+  com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService
+  com.google.android.gms/.chimera.PersistentInternalBoundBrokerService
+  com.google.android.googlequicksearchbox/androidx.room.MultiInstanceInvalidationService
+  com.samsung.android.honeyboard/.service.HoneyBoardService
+  com.samsung.android.rubin.app/com.samsung.android.rubin.controller.KeepAliveService
+  com.google.android.apps.messaging/com.google.android.ims.service.JibeService
+  com.google.android.networkstack.tethering/com.android.networkstack.tethering.TetheringService
+  com.samsung.android.gearoplugin/com.samsung.android.hostmanager.service.HostManager
+
+Heavy CPU Processes (>=50.0%):
+Heavy RAM Apps (>=300MB):
+  com.zhiliaoapp.musically (PID 27327): 493.9 MB RAM
+
+=== DIAGNOSTIC WARNINGS & SUGGESTIONS ===
+Suggestion: App com.zhiliaoapp.musically is using a lot of RAM. Consider force-stopping or uninstalling if not needed.
+
+=== END OF REPORT ===

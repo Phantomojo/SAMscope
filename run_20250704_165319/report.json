@@ -1,0 +1,1027 @@
+{
+  "cpu": [],
+  "ram": [
+    {
+      "name": "system",
+      "pid": 1203,
+      "ram_mb": 248.25
+    },
+    {
+      "name": "com.android.systemui",
+      "pid": 2352,
+      "ram_mb": 191.11328125
+    },
+    {
+      "name": "com.whatsapp",
+      "pid": 21962,
+      "ram_mb": 172.57421875
+    },
+    {
+      "name": "com.instagram.android",
+      "pid": 724,
+      "ram_mb": 153.671875
+    },
+    {
+      "name": "com.google.android.googlequicksearchbox:search",
+      "pid": 5237,
+      "ram_mb": 123.671875
+    },
+    {
+      "name": "com.google.android.gms.persistent",
+      "pid": 9156,
+      "ram_mb": 112.23828125
+    },
+    {
+      "name": "com.truecaller",
+      "pid": 15405,
+      "ram_mb": 104.12890625
+    },
+    {
+      "name": "com.spotify.music",
+      "pid": 3313,
+      "ram_mb": 75.08984375
+    },
+    {
+      "name": "com.google.android.projection.gearhead:shared",
+      "pid": 5203,
+      "ram_mb": 73.7109375
+    },
+    {
+      "name": "com.samsung.android.rubin.app",
+      "pid": 4715,
+      "ram_mb": 71.0859375
+    },
+    {
+      "name": "com.sec.android.app.shealth:remote",
+      "pid": 8986,
+      "ram_mb": 68.4296875
+    },
+    {
+      "name": "com.google.android.googlequicksearchbox:interactor",
+      "pid": 15429,
+      "ram_mb": 66.73828125
+    },
+    {
+      "name": "com.safaricom.mpesa.lifestyle",
+      "pid": 22668,
+      "ram_mb": 66.5390625
+    },
+    {
+      "name": "com.google.android.gms",
+      "pid": 4989,
+      "ram_mb": 65.62890625
+    },
+    {
+      "name": "com.samsung.android.oneconnect",
+      "pid": 16805,
+      "ram_mb": 62.51953125
+    },
+    {
+      "name": "com.samsung.android.oneconnect:Core",
+      "pid": 6045,
+      "ram_mb": 62.43359375
+    },
+    {
+      "name": "com.google.android.as",
+      "pid": 6016,
+      "ram_mb": 62.28125
+    },
+    {
+      "name": "com.android.phone",
+      "pid": 2680,
+      "ram_mb": 58.91015625
+    },
+    {
+      "name": "com.google.android.projection.gearhead:car",
+      "pid": 5261,
+      "ram_mb": 58.53515625
+    },
+    {
+      "name": "com.samsung.android.networkdiagnostic",
+      "pid": 5517,
+      "ram_mb": 56.671875
+    },
+    {
+      "name": "com.samsung.android.fmm",
+      "pid": 5053,
+      "ram_mb": 56.5859375
+    },
+    {
+      "name": "com.osp.app.signin",
+      "pid": 3185,
+      "ram_mb": 54.76953125
+    },
+    {
+      "name": "com.samsung.android.honeyboard",
+      "pid": 4813,
+      "ram_mb": 52.9765625
+    },
+    {
+      "name": "com.facebook.services",
+      "pid": 5054,
+      "ram_mb": 51.30078125
+    },
+    {
+      "name": "com.google.android.cellbroadcastreceiver",
+      "pid": 5442,
+      "ram_mb": 50.671875
+    },
+    {
+      "name": "com.sec.android.app.launcher",
+      "pid": 2908,
+      "ram_mb": 49.0078125
+    },
+    {
+      "name": "com.android.bluetooth",
+      "pid": 2823,
+      "ram_mb": 47.87890625
+    },
+    {
+      "name": "com.samsung.android.gearoplugin",
+      "pid": 16745,
+      "ram_mb": 46.91015625
+    },
+    {
+      "name": "com.google.android.apps.messaging:rcs",
+      "pid": 32522,
+      "ram_mb": 45.59375
+    },
+    {
+      "name": "com.google.android.ext.services",
+      "pid": 5982,
+      "ram_mb": 45.2421875
+    },
+    {
+      "name": "com.microsoft.appmanager:pnsvc",
+      "pid": 16821,
+      "ram_mb": 45.23046875
+    },
+    {
+      "name": "com.google.android.projection.gearhead:provider",
+      "pid": 3581,
+      "ram_mb": 44.375
+    },
+    {
+      "name": "com.sec.imsservice",
+      "pid": 2869,
+      "ram_mb": 44.00390625
+    },
+    {
+      "name": "com.google.android.providers.media.module",
+      "pid": 4384,
+      "ram_mb": 42.69921875
+    },
+    {
+      "name": "com.transsion.oraimohealth",
+      "pid": 16842,
+      "ram_mb": 42.61328125
+    },
+    {
+      "name": "com.sec.android.sdhms",
+      "pid": 4476,
+      "ram_mb": 41.4453125
+    },
+    {
+      "name": "com.samsung.android.dqagent",
+      "pid": 5372,
+      "ram_mb": 41.1015625
+    },
+    {
+      "name": "com.drilens.wamr:notificationl",
+      "pid": 16841,
+      "ram_mb": 40.59375
+    },
+    {
+      "name": "android.process.acore",
+      "pid": 13963,
+      "ram_mb": 40.15625
+    },
+    {
+      "name": "com.prey",
+      "pid": 4632,
+      "ram_mb": 39.66796875
+    },
+    {
+      "name": "com.samsung.android.incallui",
+      "pid": 3632,
+      "ram_mb": 38.70703125
+    },
+    {
+      "name": "com.google.android.googlequicksearchbox:trusted_disable_art_image_:com.google.android.apps.gsa.hotword.hotworddetectionservice.GsaHotwordDetectionService:hotword_detector_0",
+      "pid": 17426,
+      "ram_mb": 38.42578125
+    },
+    {
+      "name": "com.arn.scrobble:bgScrobbler",
+      "pid": 16785,
+      "ram_mb": 37.74609375
+    },
+    {
+      "name": "com.sec.android.provider.badge",
+      "pid": 5583,
+      "ram_mb": 37.4375
+    },
+    {
+      "name": "com.android.networkstack.process",
+      "pid": 2701,
+      "ram_mb": 36.9296875
+    },
+    {
+      "name": "com.samsung.android.app.watchmanager:contentprovider",
+      "pid": 4241,
+      "ram_mb": 35.98046875
+    },
+    {
+      "name": "com.samsung.android.galaxycontinuity",
+      "pid": 16871,
+      "ram_mb": 35.8359375
+    },
+    {
+      "name": "com.sec.android.CcInfo",
+      "pid": 5288,
+      "ram_mb": 34.96484375
+    },
+    {
+      "name": "com.google.process.gservices",
+      "pid": 2582,
+      "ram_mb": 34.8203125
+    },
+    {
+      "name": "com.sec.android.diagmonagent",
+      "pid": 4453,
+      "ram_mb": 34.52734375
+    },
+    {
+      "name": "com.samsung.klmsagent",
+      "pid": 4714,
+      "ram_mb": 34.2890625
+    },
+    {
+      "name": "com.samsung.android.game.gamehome:notification",
+      "pid": 16852,
+      "ram_mb": 33.07421875
+    },
+    {
+      "name": "com.samsung.cmh",
+      "pid": 13350,
+      "ram_mb": 32.0859375
+    },
+    {
+      "name": "com.sec.location.nsflp2",
+      "pid": 3252,
+      "ram_mb": 30.44140625
+    },
+    {
+      "name": "android:drmService",
+      "pid": 4556,
+      "ram_mb": 30.43359375
+    },
+    {
+      "name": "com.android.rkpdapp",
+      "pid": 6035,
+      "ram_mb": 30.34375
+    },
+    {
+      "name": "com.samsung.android.app.telephonyui",
+      "pid": 7520,
+      "ram_mb": 29.73046875
+    },
+    {
+      "name": "com.samsung.android.mdx.kit",
+      "pid": 14362,
+      "ram_mb": 28.515625
+    },
+    {
+      "name": "com.google.android.ims",
+      "pid": 3990,
+      "ram_mb": 28.33984375
+    },
+    {
+      "name": "com.sec.epdg",
+      "pid": 2762,
+      "ram_mb": 26.3828125
+    },
+    {
+      "name": "android.process.media",
+      "pid": 5157,
+      "ram_mb": 25.234375
+    },
+    {
+      "name": "com.samsung.android.themecenter",
+      "pid": 2498,
+      "ram_mb": 23.41796875
+    },
+    {
+      "name": "com.sec.sve",
+      "pid": 2854,
+      "ram_mb": 22.7734375
+    },
+    {
+      "name": "zygote64",
+      "pid": 941,
+      "ram_mb": 21.0546875
+    },
+    {
+      "name": "com.android.se",
+      "pid": 2873,
+      "ram_mb": 20.8359375
+    },
+    {
+      "name": "com.android.proxyhandler",
+      "pid": 3239,
+      "ram_mb": 20.6796875
+    },
+    {
+      "name": "surfaceflinger",
+      "pid": 1020,
+      "ram_mb": 14.375
+    },
+    {
+      "name": "webview_zygote",
+      "pid": 2532,
+      "ram_mb": 14.26953125
+    },
+    {
+      "name": "com.safaricom.mpesa.lifestyle",
+      "pid": 22792,
+      "ram_mb": 10.5390625
+    },
+    {
+      "name": "audioserver",
+      "pid": 1010,
+      "ram_mb": 9.89453125
+    },
+    {
+      "name": "mediaserver",
+      "pid": 1169,
+      "ram_mb": 6.45703125
+    },
+    {
+      "name": "keystore2",
+      "pid": 408,
+      "ram_mb": 5.58984375
+    },
+    {
+      "name": "rild",
+      "pid": 1424,
+      "ram_mb": 5.01171875
+    },
+    {
+      "name": "zygote",
+      "pid": 942,
+      "ram_mb": 4.87890625
+    },
+    {
+      "name": "statsd",
+      "pid": 939,
+      "ram_mb": 3.92578125
+    },
+    {
+      "name": "netd",
+      "pid": 940,
+      "ram_mb": 3.86328125
+    },
+    {
+      "name": "media.swcodec",
+      "pid": 1192,
+      "ram_mb": 3.61328125
+    },
+    {
+      "name": "media.metrics",
+      "pid": 1162,
+      "ram_mb": 3.48046875
+    },
+    {
+      "name": "android.hardware.graphics.composer@2.2-service",
+      "pid": 956,
+      "ram_mb": 3.43359375
+    },
+    {
+      "name": "logd",
+      "pid": 350,
+      "ram_mb": 3.421875
+    },
+    {
+      "name": "media.extractor",
+      "pid": 1159,
+      "ram_mb": 3.16796875
+    },
+    {
+      "name": "dumpsys",
+      "pid": 5735,
+      "ram_mb": 3.1640625
+    },
+    {
+      "name": "cameraserver",
+      "pid": 1140,
+      "ram_mb": 3.1484375
+    },
+    {
+      "name": "android.hardware.security.keymint-service",
+      "pid": 409,
+      "ram_mb": 3.09765625
+    },
+    {
+      "name": "lmkd",
+      "pid": 351,
+      "ram_mb": 3.06640625
+    },
+    {
+      "name": "vendor.samsung.hardware.security.fkeymaster-service",
+      "pid": 411,
+      "ram_mb": 2.95703125
+    },
+    {
+      "name": "adbd",
+      "pid": 27828,
+      "ram_mb": 2.64453125
+    },
+    {
+      "name": "init",
+      "pid": 1,
+      "ram_mb": 2.57421875
+    },
+    {
+      "name": "vold",
+      "pid": 369,
+      "ram_mb": 2.5703125
+    },
+    {
+      "name": "samsung.hardware.media.c2@1.2-service",
+      "pid": 969,
+      "ram_mb": 2.55078125
+    },
+    {
+      "name": "multiclientd",
+      "pid": 1464,
+      "ram_mb": 2.49609375
+    },
+    {
+      "name": "kumiho.decoder",
+      "pid": 1016,
+      "ram_mb": 2.47265625
+    },
+    {
+      "name": "android.system.suspend-service",
+      "pid": 407,
+      "ram_mb": 2.46484375
+    },
+    {
+      "name": "wpa_supplicant",
+      "pid": 21713,
+      "ram_mb": 2.44921875
+    },
+    {
+      "name": "vendor.samsung.hardware.biometrics.face-service",
+      "pid": 960,
+      "ram_mb": 2.42578125
+    },
+    {
+      "name": "vendor.samsung.hardware.health-service",
+      "pid": 981,
+      "ram_mb": 2.40234375
+    },
+    {
+      "name": "pageboostd",
+      "pid": 3391,
+      "ram_mb": 2.3984375
+    },
+    {
+      "name": "ueventd",
+      "pid": 271,
+      "ram_mb": 2.39453125
+    },
+    {
+      "name": "vendor.samsung.hardware.thermal-service",
+      "pid": 986,
+      "ram_mb": 2.37109375
+    },
+    {
+      "name": "android.hardware.audio.service",
+      "pid": 950,
+      "ram_mb": 2.34765625
+    },
+    {
+      "name": "android.hardware.sensors-service.multihal",
+      "pid": 957,
+      "ram_mb": 2.30859375
+    },
+    {
+      "name": "android.hardware.wifi-service",
+      "pid": 959,
+      "ram_mb": 2.29296875
+    },
+    {
+      "name": "servicemanager",
+      "pid": 352,
+      "ram_mb": 2.2578125
+    },
+    {
+      "name": "vendor.samsung.hardware.hyper-service",
+      "pid": 961,
+      "ram_mb": 2.23828125
+    },
+    {
+      "name": "installd",
+      "pid": 1153,
+      "ram_mb": 2.19921875
+    },
+    {
+      "name": "prng_seeder",
+      "pid": 345,
+      "ram_mb": 2.19140625
+    },
+    {
+      "name": "storaged",
+      "pid": 1180,
+      "ram_mb": 2.15625
+    },
+    {
+      "name": "vendor.samsung.hardware.camera.provider-service_64",
+      "pid": 979,
+      "ram_mb": 2.1484375
+    },
+    {
+      "name": "vendor.samsung.hardware.vibrator-service",
+      "pid": 988,
+      "ram_mb": 2.08203125
+    },
+    {
+      "name": "wificond",
+      "pid": 1181,
+      "ram_mb": 2.08203125
+    },
+    {
+      "name": "android.hardware.graphics.allocator@4.0-service",
+      "pid": 955,
+      "ram_mb": 2.01953125
+    },
+    {
+      "name": "gpsd",
+      "pid": 1185,
+      "ram_mb": 1.984375
+    },
+    {
+      "name": "vendor.samsung.hardware.gnss@2.1-service",
+      "pid": 1188,
+      "ram_mb": 1.984375
+    },
+    {
+      "name": "samsung.software.media.c2@1.0-service",
+      "pid": 974,
+      "ram_mb": 1.9375
+    },
+    {
+      "name": "vaultkeeperd",
+      "pid": 432,
+      "ram_mb": 1.890625
+    },
+    {
+      "name": "perfmond",
+      "pid": 1018,
+      "ram_mb": 1.8828125
+    },
+    {
+      "name": "vendor.samsung.hardware.security.drk@2.0-service",
+      "pid": 983,
+      "ram_mb": 1.875
+    },
+    {
+      "name": "vendor.samsung.hardware.biometrics.fingerprint-service",
+      "pid": 1201,
+      "ram_mb": 1.87109375
+    },
+    {
+      "name": "emservice",
+      "pid": 928,
+      "ram_mb": 1.828125
+    },
+    {
+      "name": "android.hardware.memtrack-service.exynos",
+      "pid": 965,
+      "ram_mb": 1.828125
+    },
+    {
+      "name": "gatekeeperd",
+      "pid": 1195,
+      "ram_mb": 1.8203125
+    },
+    {
+      "name": "tzdaemon",
+      "pid": 399,
+      "ram_mb": 1.81640625
+    },
+    {
+      "name": "vendor.samsung.hardware.sysinput-service",
+      "pid": 985,
+      "ram_mb": 1.8125
+    },
+    {
+      "name": "android.hardware.power.samsung-service",
+      "pid": 966,
+      "ram_mb": 1.80859375
+    },
+    {
+      "name": "vndservicemanager",
+      "pid": 354,
+      "ram_mb": 1.796875
+    },
+    {
+      "name": "android.hardware.drm-service.widevine",
+      "pid": 1008,
+      "ram_mb": 1.78515625
+    },
+    {
+      "name": "gpuservice",
+      "pid": 1014,
+      "ram_mb": 1.78125
+    },
+    {
+      "name": "vendor.samsung.hardware.wifi-service",
+      "pid": 993,
+      "ram_mb": 1.75
+    },
+    {
+      "name": "vendor.samsung.hardware.light-service",
+      "pid": 964,
+      "ram_mb": 1.73828125
+    },
+    {
+      "name": "android.hardware.bluetooth@1.0-service",
+      "pid": 951,
+      "ram_mb": 1.7265625
+    },
+    {
+      "name": "android.hardware.drm-service.clearkey",
+      "pid": 953,
+      "ram_mb": 1.70703125
+    },
+    {
+      "name": "perfsdkserver",
+      "pid": 3308,
+      "ram_mb": 1.70703125
+    },
+    {
+      "name": "credstore",
+      "pid": 1012,
+      "ram_mb": 1.703125
+    },
+    {
+      "name": "fabric_crypto",
+      "pid": 1141,
+      "ram_mb": 1.671875
+    },
+    {
+      "name": "incidentd",
+      "pid": 1146,
+      "ram_mb": 1.66796875
+    },
+    {
+      "name": "iod",
+      "pid": 393,
+      "ram_mb": 1.65625
+    },
+    {
+      "name": "vendor.samsung.hardware.security.proca@2.0-service",
+      "pid": 431,
+      "ram_mb": 1.65625
+    },
+    {
+      "name": "vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service",
+      "pid": 1001,
+      "ram_mb": 1.640625
+    },
+    {
+      "name": "cass",
+      "pid": 927,
+      "ram_mb": 1.63671875
+    },
+    {
+      "name": "smdexe",
+      "pid": 1147,
+      "ram_mb": 1.6328125
+    },
+    {
+      "name": "speg_helper",
+      "pid": 1172,
+      "ram_mb": 1.6328125
+    },
+    {
+      "name": "spqr_service",
+      "pid": 1177,
+      "ram_mb": 1.6328125
+    },
+    {
+      "name": "vendor.samsung.hardware.security.engmode@1.0-service",
+      "pid": 410,
+      "ram_mb": 1.59765625
+    },
+    {
+      "name": "ip6tables-restore",
+      "pid": 1045,
+      "ram_mb": 1.58984375
+    },
+    {
+      "name": "iptables-restore",
+      "pid": 1044,
+      "ram_mb": 1.58203125
+    },
+    {
+      "name": "hwservicemanager",
+      "pid": 353,
+      "ram_mb": 1.57421875
+    },
+    {
+      "name": "android.hardware.usb@1.3-service.coral",
+      "pid": 958,
+      "ram_mb": 1.5625
+    },
+    {
+      "name": "imsd",
+      "pid": 1143,
+      "ram_mb": 1.55859375
+    },
+    {
+      "name": "watchdogd",
+      "pid": 366,
+      "ram_mb": 1.5546875
+    },
+    {
+      "name": "android.hidl.allocator@1.0-service",
+      "pid": 949,
+      "ram_mb": 1.54296875
+    },
+    {
+      "name": "vendor.samsung.hardware.security.vaultkeeper@2.0-service",
+      "pid": 433,
+      "ram_mb": 1.52734375
+    },
+    {
+      "name": "wlbtd",
+      "pid": 392,
+      "ram_mb": 1.515625
+    },
+    {
+      "name": "tzts_daemon",
+      "pid": 402,
+      "ram_mb": 1.48828125
+    },
+    {
+      "name": "tombstoned",
+      "pid": 440,
+      "ram_mb": 1.47265625
+    },
+    {
+      "name": "connfwexe",
+      "pid": 1151,
+      "ram_mb": 1.47265625
+    },
+    {
+      "name": "auditd",
+      "pid": 924,
+      "ram_mb": 1.3515625
+    },
+    {
+      "name": "android.hardware.gatekeeper@1.0-service",
+      "pid": 954,
+      "ram_mb": 1.30859375
+    },
+    {
+      "name": "ddexe",
+      "pid": 1149,
+      "ram_mb": 1.29296875
+    },
+    {
+      "name": "traced_probes",
+      "pid": 1128,
+      "ram_mb": 1.26953125
+    },
+    {
+      "name": "traced",
+      "pid": 1129,
+      "ram_mb": 1.26953125
+    },
+    {
+      "name": "diagexe",
+      "pid": 1418,
+      "ram_mb": 1.265625
+    },
+    {
+      "name": "cbd",
+      "pid": 1423,
+      "ram_mb": 1.265625
+    },
+    {
+      "name": "main_abox",
+      "pid": 1198,
+      "ram_mb": 1.2578125
+    },
+    {
+      "name": "abox_log",
+      "pid": 1200,
+      "ram_mb": 1.234375
+    },
+    {
+      "name": "init",
+      "pid": 270,
+      "ram_mb": 1.19140625
+    },
+    {
+      "name": "drmserver",
+      "pid": 1127,
+      "ram_mb": 0.6640625
+    },
+    {
+      "name": "media.codec",
+      "pid": 1183,
+      "ram_mb": 0.4296875
+    },
+    {
+      "name": "android.hardware.cas@1.2-service",
+      "pid": 952,
+      "ram_mb": 0.2109375
+    }
+  ],
+  "thermal": {
+    "SUBBAT": 0.0,
+    "AP": 40.0,
+    "PA": 39.2,
+    "BAT": 32.9,
+    "USB": 0.0,
+    "SKIN": 37.5
+  },
+  "gfx": {
+    "avg_frame_time_ms": null,
+    "jank_frames": null,
+    "total_frames": 0
+  },
+  "services": [
+    "com.google.android.gms/.nearby.presence.service.LifeCycleService",
+    "com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService",
+    "com.google.android.gms/.chimera.PersistentInternalBoundBrokerService",
+    "com.osp.app.signin/androidx.room.MultiInstanceInvalidationService",
+    "com.samsung.android.honeyboard/.service.HoneyBoardService",
+    "com.samsung.android.rubin.app/com.samsung.android.rubin.controller.KeepAliveService",
+    "com.google.android.apps.messaging/com.google.android.ims.service.JibeService",
+    "com.google.android.networkstack.tethering/com.android.networkstack.tethering.TetheringService",
+    "com.samsung.android.gearoplugin/com.samsung.android.hostmanager.service.HostManager",
+    "com.android.systemui/com.android.wm.shell.pip.PipMenuControlService",
+    "com.spotify.music/com.google.firebase.sessions.SessionLifecycleService",
+    "com.android.bluetooth/.hearingaid.HearingAidService",
+    "com.google.android.gms/.nearby.sharing.ReceiveSurfaceService",
+    "com.transsion.oraimohealth/com.transsion.com.service.NotificationMonitorService",
+    "com.samsung.android.game.gamehome/.receiver.NotificationListenerOverR",
+    "com.google.android.googlequicksearchbox/com.google.frameworks.client.data.android.server.tiktok.SearchProcessEndpointService",
+    "com.google.android.gms/.cast.media.CastMediaRoute2ProviderService_Persistent",
+    "com.samsung.klmsagent/.service.KLMDebugService",
+    "com.spotify.music/com.spotify.app.music.service.SpotifyService",
+    "com.drilens.wamr/.NotificationListener",
+    "com.samsung.android.gearoplugin/com.samsung.android.hostmanager.connectionmanager.ConnectionManager",
+    "com.android.bluetooth/com.samsung.bt.bluetoothcast.mcm.BluetoothAudioCastService",
+    "android/com.android.server.companion.datatransfer.contextsync.CallMetadataSyncInCallService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.whatsapp/.messaging.MessageService",
+    "com.sec.epdg/.EpdgService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.captions.SystemCaptionsManagerService",
+    "com.google.android.gms/.personalsafety.service.SndDetectionService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.textclassifier.service.QAiaiTextClassifierService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiSuperpacksService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.sec.enterprise.mdm.services.simpin/.EnterpriseSimPin",
+    "com.google.android.ims/.services.CarrierServicesImsService",
+    "com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.stats.eastworld.EastworldService",
+    "com.google.android.gms/.auth.proximity.phonehub.PhoneHubNotificationListenerService",
+    "com.whatsapp/.calling.service.VoiceFGService",
+    "com.google.android.apps.messaging/com.google.android.ims.binding.SystemBindingService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.systemui/.wallpapers.ImageWallpaper",
+    "com.google.android.gms/.location.geocode.GeocodeService",
+    "com.sec.android.app.shealth/com.samsung.android.app.shealth.wearable.service.WearableService",
+    "com.truecaller/.callerid.CallerIdServiceLegacy",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.CapabilityService",
+    "com.sec.android.app.shealth/com.samsung.android.sleepdetectionlib.service.ServiceManager",
+    "com.samsung.android.incallui/com.android.incallui.NonUiServiceImpl",
+    "com.sec.location.nsflp2/.nsmonitor.NSMonitorService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.whatsapp/.calling.telecom.SelfManagedConnectionService",
+    "com.sec.imsservice/com.sec.internal.imsphone.SecImsService",
+    "com.android.bluetooth/.sap.SapService",
+    "com.sec.epdg/.apassist.IwlanService.IwlanDataService",
+    "com.android.bluetooth/.telephony.BluetoothInCallService",
+    "com.google.android.gms/.findmydevice.spot.bleadvertising.OfflineBeaconService_Persistent",
+    "com.google.android.gms/.tron.CollectionService",
+    "com.sec.android.app.shealth/com.samsung.android.app.shealth.ForegroundPromoterServiceNo",
+    "com.instagram.android/com.facebook.video.heroplayer.service.HeroKeepAliveService",
+    "com.google.android.gms/.nearby.sharing.SendSurfaceService",
+    "com.android.bluetooth/.pbap.BluetoothPbapService",
+    "com.samsung.android.gearoplugin/com.samsung.accessory.goproviders.sanotificationservice.eventhandler.NotificationListener",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.semanticlocation.service.SemanticLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.samsung.sec.android.application.csc/.service.CscUpdateService",
+    "com.truecaller/com.google.firebase.sessions.SessionLifecycleService",
+    "com.google.android.ext.services/android.ext.services.autofill.InlineSuggestionRenderServiceImpl",
+    "com.android.server.telecom/com.samsung.server.telecom.SamsungTelecomInternalService",
+    "com.prey/.services.AppAccessibilityService",
+    "com.truecaller/.notifications.NotificationHandlerService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.ImsService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.google.android.providers.media.module/com.android.providers.media.fuse.ExternalStorageServiceImpl",
+    "com.android.phone/com.android.internal.telephony.data.CellularDataService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nga.engine.viss.NgaService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.common.notification.service.AiAiNotificationListenerService",
+    "com.sec.sve/.service.SecVideoEngineService",
+    "com.android.systemui/.SystemUIService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.sec.android.app.launcher/com.android.launcher3.notification.NotificationListener",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.samsung.android.themecenter/com.samsung.android.thememanager.ThemeManagerService",
+    "com.android.bluetooth/.hid.HidDeviceService",
+    "com.google.android.gms/.personalsafety.service.PSAService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.safaricom.mpesa.lifestyle/com.google.firebase.sessions.SessionLifecycleService",
+    "com.google.android.gms/.geotimezone.GeoTimeZoneService",
+    "org.telegram.messenger/.NotificationsService",
+    "com.google.android.gms/.auth.trustagent.GoogleTrustAgent",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/.nearby.discovery.service.DiscoveryService",
+    "com.google.android.projection.gearhead/com.google.android.gearhead.service.SharedService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.arn.scrobble/.NLService",
+    "com.whatsapp/androidx.work.impl.background.systemjob.SystemJobService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService",
+    "com.sec.android.app.shealth/com.samsung.android.app.shealth.app.helper.IntentDelegator",
+    "com.samsung.android.mtp/.MtpService",
+    "com.safaricom.mpesa.lifestyle/androidx.work.impl.background.systemjob.SystemJobService",
+    "com.google.android.gms/.fido.authenticator.service.AuthenticatorService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentCaptureService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.samsung.android.gearoplugin/com.samsung.android.hostmanager.connectionmanager.sap.SAAgentService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.android.systemui/.dump.SystemUIAuxiliaryDumpService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.android.stk/.StkAppService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.sec.android.app.shealth/com.samsung.android.service.health.HealthService",
+    "android/com.android.server.DrmEventService",
+    "com.sec.android.app.shealth/androidx.room.MultiInstanceInvalidationService",
+    "com.samsung.android.oneconnect/.controlsprovider.service.ServiceImpl",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.android.phone/com.samsung.telephonyui.SamsungInternalService",
+    "com.google.android.networkstack/com.android.server.NetworkStackService",
+    "com.samsung.android.fmm/com.samsung.android.fme.offlinefinding.OfflineFindingService",
+    "com.android.systemui/com.android.wm.shell.splitscreen.SplitScreenProxyService",
+    "com.android.bluetooth/.hfp.HeadsetService",
+    "com.facebook.services/com.facebook.oxygen.services.fbns.PreloadedFbnsService",
+    "com.prey/com.google.firebase.sessions.SessionLifecycleService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.google.android.gms/.crisisalerts.init.CrisisAlertsPersistentService",
+    "com.samsung.android.mdx.kit/.discovery.impl.viewImpl.DeviceConnectionService",
+    "com.sec.android.app.shealth/com.samsung.android.app.shealth.tracker.pedometer.service.PedometerService",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.samsung.android.app.telephonyui/.netsettings.ui.simcardmanager.service.SimCardManagerProcessService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.pecan.service.impl.PecanDumpSysService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.hotword.hotworddetectionservice.GsaHotwordDetectionService:hotword_detector_0",
+    "com.android.ons/.OpportunisticNetworkService",
+    "com.microsoft.appmanager/com.microsoft.mmx.agents.PhoneNotificationsListenerService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.android.proxyhandler/.ProxyService",
+    "com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.samsung.android.cidmanager/.service.CIDManagerService",
+    "com.google.android.gms/.dtdi.lifecycle.LifecycleService",
+    "com.sec.epdg/.apassist.IwlanService.EpdgQualifiedNetworksService",
+    "com.sec.epdg/.apassist.IwlanService.IwlanNetworkService",
+    "com.android.rkpdapp/.service.RemoteProvisioningService",
+    "com.google.android.googlequicksearchbox/androidx.work.impl.background.gcm.WorkManagerGcmService",
+    "com.android.server.telecom/com.samsung.server.telecom.SamsungTelecomService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.VolteService2",
+    "com.android.bluetooth/.map.BluetoothMapService",
+    "com.sec.android.app.launcher/.globalgesture.TouchInteractionService",
+    "com.android.stk2/.StkAppService",
+    "com.google.android.as/com.google.android.apps.miphone.aiai.captions.downloadservice.CaptionsDownloadService",
+    "com.google.android.gms/.personalsafety.service.PersonalSafetyService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.android.bluetooth/.hid.HidHostService",
+    "com.samsung.android.oneconnect/.core.QcService",
+    "com.android.bluetooth/.opp.BluetoothOppService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.samsung.android.galaxycontinuity/.notification.NotificationListener",
+    "com.android.bluetooth/.avrcp.AvrcpTargetService",
+    "com.microsoft.appmanager/com.microsoft.mmx.agents.notifications.messenger.PhoneNotificationMessengerService",
+    "com.google.android.cellbroadcastservice/com.android.cellbroadcastservice.DefaultCellBroadcastService",
+    "com.google.android.gms/.personalsafety.service.LockingTrustAgentService",
+    "com.samsung.android.honeyboard/.base.spellcheckerservice.HoneyBoardSpellCheckerService"
+  ],
+  "heavy_cpu": [],
+  "heavy_ram": [],
+  "package": null
+}
